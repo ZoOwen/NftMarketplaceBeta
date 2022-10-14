@@ -36,3 +36,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 MAKE ENV.DEVELOPMENT DATA IS
 NEXT_PUBLIC_NETWORK_ID =5777
 NEXT_PUBLIC_TARGET_CHAIN_ID =1337
+
+mcOwn
